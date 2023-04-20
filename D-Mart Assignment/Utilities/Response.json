@@ -1,0 +1,66 @@
+{
+    "Data": [{
+        "cellCategory": "BannerCell",
+        "url": "https://img.dmart.in/images/rwd/banners/hmpg/1dec21-carousel-ds.jpg"
+    }, {
+        "cellCategory": "ProductCell",
+        "name": "Premia Green Eliachi Economy: 10 gms",
+        "id": "001",
+        "imageURL": "https://img.dmart.in/images/rwd/products/N/O/V/NOV110000277xx11NOV21_5_I.jpg",
+        "shouldShowVegIcon": true,
+        "shouldShowNonVegIcon": false,
+        "availableQuantity": [{
+            "description": "10 gm",
+            "mrp": 900.00,
+            "dmartPrice": 875.0,
+            "isAddedToList": false,
+            "isAddedToCart": false
+        }]
+    }, {
+        "cellCategory": "BannerCell",
+        "url": "https://img.dmart.in/images/rwd/banners/hmpg/1dec21-carousel-halfprice.jpg"
+    }, {
+        "cellCategory": "GridCell",
+        "columnCount": 3,
+        "rowCount": 2,
+        "gridItems": [{
+            "id": "01",
+            "productName": "Potato",
+            "productURL": "https://img.dmart.in/images/rwd/products/K/P/O/KPOTATO1kg3132XX270118_1_I.jpg"
+        }, {
+            "id": "02",
+            "productName": "Banana",
+            "productURL": "https://img.dmart.in/images/rwd/products/K/F/R/KFRUITS500gm14xx230920_5_I.jpg"
+        }, {
+            "id": "03",
+            "productName": "Pomegranate",
+            "productURL": "https://img.dmart.in/images/rwd/products/K/F/R/KFRESHFRUITS4pcs97XX141018_3_I.jpg"
+        }, {
+            "id": "04",
+            "productName": "Tamarind",
+            "productURL": "https://img.dmart.in/images/rwd/products/L/S/S/LSSONFRUITS1UDoms60xx271219_5_I.jpg"
+        }, {
+            "id": "05",
+            "productName": "Coconut",
+            "productURL": "https://img.dmart.in/images/rwd/products/K/C/O/KCOCONUT1pcs3134XX160818_1_I.jpg"
+        }, {
+            "id": "06",
+            "productName": "Tomato",
+            "productURL": "https://img.dmart.in/images/rwd/products/K/V/E/KVEGETABLES500gm41xx230920_5_I.jpg"
+        }]
+    }, {
+        "cellCategory": "ProductCell",
+        "name": "Kellogg's Chocos Variety Pack: 156 gms",
+        "id": "002",
+        "imageURL": "https://img.dmart.in/images/rwd/products/I/C/o/ICornFlakes135gKMST1234xx310521_5_I.jpg",
+        "shouldShowVegIcon": true,
+        "shouldShowNonVegIcon": false,
+        "availableQuantity": [{
+            "description": "156 gm",
+            "mrp": 60.00,
+            "dmartPrice": 47.00,
+            "isAddedToList": false,
+            "isAddedToCart": false
+        }]
+    }]
+}
